@@ -1,0 +1,19 @@
+Algoritmo Leccion10_actividad1_ini1
+	Definir i Como Entero
+	
+	Escribir "---------Cuponera de Barberia Don Crup--------"
+	
+	Para I=1 Hasta 8 Con Paso 1 Hacer
+		Escribir  "Presione una tecla para marcar sello, numero", i
+		Esperar Tecla
+		Escribir "¡Sello¡ ",i, " marcado ...."
+		Escribir "--------------------------------"
+		
+		
+		
+	Fin Para
+	
+	Escribir "Felicidades has completado los 8 sellos"
+	Escribir "Cortes gratis"
+	
+FinAlgoritmo
